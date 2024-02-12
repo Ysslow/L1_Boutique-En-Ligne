@@ -1,0 +1,3 @@
+Lucas Deloison et Alexandre Hemelsdael.
+
+Toutes les questions ont été traitées, pour la catégorie bonus, uniquement une refonte du CSS.
